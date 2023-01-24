@@ -1,12 +1,6 @@
-# IE 7615: NeuralNetworks and Deep Learning- Final Project 
-### Contributed by: 
-##### 1. Sumedh Kulkarni
-##### 2. Pranav Walimbe
-##### 3. Prathamesh Mundhe
-                
 ## Image Classification using CNN, Keras and Tensorflow in Python
 
-### This project is being done as a competition by many students and the best accuracy achieved is 70%. We were able to achieve 63% accuracy for 101 classes. This falls in the top 5 for the competition. For 10 classes we were able to achieve an accuracy of 95% 
+### This project is being done as a competition by many students and the best accuracy achieved is 70%. We were able to achieve 63% accuracy.
 
 ## Data
 The dataset is obtained from an opensource platform. It is available on CalTech website as CalTech 101 Image classification dataset.
